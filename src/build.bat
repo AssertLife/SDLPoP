@@ -2,6 +2,7 @@
 setlocal
 cd %~dp0
  
+ :: CHECK
  
 :: Check that we have access to the MSVC compiler.
 
