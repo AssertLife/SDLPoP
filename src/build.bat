@@ -1,7 +1,8 @@
 @echo off
 setlocal
 cd %~dp0
-
+ 
+ 
 :: Check that we have access to the MSVC compiler.
 
 where /q cl
